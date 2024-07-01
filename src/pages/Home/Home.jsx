@@ -1,9 +1,10 @@
-// #1E69B8
+
+import Form from './Form/Form';
+
 const Home = () => {
     return (
-        <div className="bg-[#1E69B8]">
-            Home
-            Home
+        <div>
+            <Form/>
         </div>
     );
 };
